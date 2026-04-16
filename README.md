@@ -24,5 +24,5 @@ After finished, I had some idead to improve this project .
 ## How to run it
 
 ```bash
-python3 holamundo.py
+python3 calculadorabasica.py
 
