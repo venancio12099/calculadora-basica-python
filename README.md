@@ -3,6 +3,8 @@
 This is a simple calculator that a made for practicing. 
 Note: The program is written in Spanish and performs simple arithmetic operations between two numbers.
 
+<img width="555" height="815" alt="image" src="https://github.com/user-attachments/assets/c99fefad-8687-4876-aa2f-e3bbfb28f88d" />
+
 ## How Could It Be Improved
 
 After finished, I had some idead to improve this project .
@@ -24,5 +26,3 @@ After finished, I had some idead to improve this project .
 ```bash
 python3 holamundo.py
 
-
-<img width="555" height="815" alt="image" src="https://github.com/user-attachments/assets/c99fefad-8687-4876-aa2f-e3bbfb28f88d" />
